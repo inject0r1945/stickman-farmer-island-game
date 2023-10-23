@@ -14,3 +14,6 @@ https://play.google.com/store/apps/details?id=stickman.farmer.island.game.family
 - Appodeal
 - Yandex SDK
 - Firebase
+
+При запуске игры будут появляться ошибки библиотеки Fiirebase. На игровой процесс не влияет.
+Для их устранения нужнр повторно установить пакет FirebaseAnalytics.unitypackage из https://firebase.google.com/download/unity
