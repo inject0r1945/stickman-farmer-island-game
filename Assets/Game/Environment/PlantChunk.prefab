@@ -1231,7 +1231,7 @@ MonoBehaviour:
   _cropIconRenderer: {fileID: 8076057394304204427}
   _blockCanvas: {fileID: 6988975831008493889}
   _cropObject: {fileID: 11400000, guid: dcdd516f41ea451438a8758da6152198, type: 2}
-  _harvestCountToBlock: 1
+  _harvestCountToBlock: 3
   _defaultBlockTime: 500
   _saveTimePeriodInBlock: 10
 --- !u!65 &5513004640048853397
