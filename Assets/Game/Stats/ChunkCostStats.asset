@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b279fb5a68c16745b566c2f71f41bb8, type: 3}
+  m_Name: ChunkCostStats
+  m_EditorClassIdentifier: 
+  _costPerLevel: 000000005000000078000000a0000000dc000000180100005401000090010000e0010000300200006c020000bc0200000c03000052030000a2030000

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "714083947198",
+    "project_id": "stickman-farmer-island-game",
+    "storage_bucket": "stickman-farmer-island-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714083947198:android:514cfa3879ed58f4d604ef",
+        "android_client_info": {
+          "package_name": "stickman.farmer.island.game.family.farm.sim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-1qLI_95mDDqFOs7XYduFjkmyuqJwTbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714083947198:android:81909daddc53fa7fd604ef",
+        "android_client_info": {
+          "package_name": "stickman.farmer.island.game.family.farm.sim.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-1qLI_95mDDqFOs7XYduFjkmyuqJwTbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

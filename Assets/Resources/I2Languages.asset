@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Blocked
+      TermType: 0
+      Description: 
+      Languages:
+      - Blocked
+      - "\u0417\u0430\u0431\u043B\u043E\u043A\u0438\u0440\u043E\u0432\u0430\u043D\u043E"
+      - Engellendi
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Unlock
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock
+      - "\u0420\u0430\u0437\u0431\u043B\u043E\u043A\u0438\u0440\u043E\u0432\u0430\u0442\u044C"
+      - "Kilidini A\xE7"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u041F\u0440\u043E\u0438\u0437\u043E\u0448\u043B\u0430 \u043E\u0448\u0438\u0431\u043A\u0430
+        \u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0438 \u0440\u0435\u043A\u043B\u0430\u043C\u044B.
+        \u041F\u043E\u043F\u0440\u043E\u0431\u0443\u0439\u0442\u0435 \u043F\u043E\u0437\u0434\u043D\u0435\u0435."
+      TermType: 0
+      Description: 
+      Languages:
+      - An error occurred loading the ad. Try again later.
+      - "\u041F\u0440\u043E\u0438\u0437\u043E\u0448\u043B\u0430 \u043E\u0448\u0438\u0431\u043A\u0430
+        \u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0438 \u0440\u0435\u043A\u043B\u0430\u043C\u044B.
+        \n\u041F\u043E\u043F\u0440\u043E\u0431\u0443\u0439\u0442\u0435 \u043F\u043E\u0437\u0434\u043D\u0435\u0435."
+      - "Reklam y\xFCklenirken bir hata olu\u015Ftu. Daha sonra tekrar deneyin."
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Regular Languages Fonts
+      TermType: 9
+      Description: 
+      Languages:
+      - Coolvetica SDF
+      - PTSansNarrow-Regular
+      - Fonts & Materials/LiberationSans SDF
+      Flags: 000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Russian
+      Code: ru
+      Flags: 0
+    - Name: Turkish
+      Code: tr
+      Flags: 0
+    IgnoreDeviceLanguage: 1
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbyo9sV5STy1tHKKr4HlPz9rXj3LV3Xe6VifTGyUK7G0olUNjKCHMP0nG61jPf3UjlFCRw/exec
+    Google_SpreadsheetKey: 19Y4DTrQn-e7QDD3U3BEMNINFap4wW23RRBQ503feLdM
+    Google_SpreadsheetName: I2Loc Stickman Farmer Island Game Localization
+    Google_LastUpdatedVersion: 1696483982153
+    Google_Password: FermaLanguage007
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets:
+    - {fileID: 11400000, guid: e7d8521fb5cd1d34187047106353e45c, type: 2}
+    - {fileID: 11400000, guid: e9766554577734e408d01bfc8798592d, type: 2}
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
+    Spreadsheet_SortRows: 1
