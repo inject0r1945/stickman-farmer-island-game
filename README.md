@@ -3,6 +3,7 @@
 Ссылки на игру:
 
 https://play.google.com/store/apps/details?id=stickman.farmer.island.game.family.farm.sim
+https://yandex.ru/games/app/262068?lang=ru
 
 Использованные технологии:
 - Zenject
