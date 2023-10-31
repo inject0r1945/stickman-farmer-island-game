@@ -18,4 +18,4 @@ https://yandex.ru/games/app/262068?lang=ru
 - Firebase
 
 При запуске игры будут появляться ошибки библиотеки Fiirebase. На игровой процесс не влияет.
-Для их устранения нужнр повторно установить пакет FirebaseAnalytics.unitypackage из https://firebase.google.com/download/unity
+Для их устранения нужно повторно установить пакет FirebaseAnalytics.unitypackage из https://firebase.google.com/download/unity
