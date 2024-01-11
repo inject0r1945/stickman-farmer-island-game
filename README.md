@@ -1,4 +1,6 @@
-# Stickman-Farmer-Island-Game-Demo
+# Stickman-Farmer-Island-Game
+
+Игра на движке Unity, в которой персонажу Stickman нужно выращивать овощи, зарабатывать деньги и открывать закрытые части острова.
 
 Ссылки на игру:
 
